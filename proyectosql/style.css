@@ -1,0 +1,24 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url("https://wallpapercave.com/wp/wp8030358.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.table {
+  box-shadow: 7px 13px 37px #000;
+  border-radius: 14px;
+}
+.card {
+  box-shadow: 7px 13px 37px rgba(0, 0, 0, 0.575);
+  border-radius: 14px;
+}
